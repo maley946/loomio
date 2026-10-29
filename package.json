@@ -1,0 +1,13 @@
+
+{
+  "name": "loomio",
+  "version": "1.0.0",
+  "description": "My own webhook and automation platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
